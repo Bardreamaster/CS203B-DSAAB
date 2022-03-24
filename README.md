@@ -17,6 +17,6 @@ Data Structures and Algorithm Analysis B
 
 **Final Project - Adaptive Matrix Multiplication**    
   In this project you will implement and analyze, empirically and theoretically, a method for multiplying square matrices. The method will adapt to use algorithmic techniques depending on the system architecture on which it is run.
-* Topic：[Adaptive Matrix Multiplication](Adaptive Matrix Multiplication/Projject.pdf)
-* Report: [Repot](Adaptive Matrix Multiplication/Report.pdf)
-* Reference: [Strassen](Adaptive Matrix Multiplication/paoloA.Strassen.ICS.pdf)
+* Topic：[Adaptive Matrix Multiplication](Adaptive%20Matrix%20Multiplication/Projject.pdf)
+* Report: [Repot](Adaptive%20Matrix%20Multiplication/Report.pdf)
+* Reference: [Strassen](Adaptive%20Matrix%20Multiplication/paoloA.Strassen.ICS.pdf)
